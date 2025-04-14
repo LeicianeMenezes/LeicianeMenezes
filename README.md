@@ -8,17 +8,14 @@
 
 ### 💜 Sobre mim
 
-Sou a Leiciane Menezes, **formada em Ciência da Computação** pela Universidade do Estado do Amazonas.  
-Atualmente, estou me aprofundando no desenvolvimento **Front-End** e participando do programa **Oracle Next Education (ONE)** em parceria com a **Alura**, onde venho adquirindo e aplicando conhecimentos valiosos da área de tecnologia.
+Sou a **Leiciane Menezes**, **formada em Ciência da Computação** pela Universidade do Estado do Amazonas. Atualmente, estou me aprofundando no desenvolvimento **Front-End** através do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.  
 
-Sou apaixonada por tecnologia, design e pelo poder da educação transformadora. 💡
-
+Sou apaixonada por **tecnologia**, **design** e pela transformação proporcionada pela educação.
 
 🌍 **Localização**: Amazonas, Brasil  
 🎓 **Formação**: Ciência da Computação  
-⚡ **Aspirante a Front-End** com interesse em **Desenvolvimento Web**  
-🎯 **Foco**: HTML, CSS, JavaScript, Python e Java  
-✨ **Objetivo**: Aprimorar minhas habilidades constantemente.!
+⚡ **Objetivo**: Aprimorar minhas habilidades em desenvolvimento Web
+
 ---
 
 ### 🛠 Tecnologias
@@ -28,15 +25,14 @@ Sou apaixonada por tecnologia, design e pelo poder da educação transformadora.
 - **JavaScript** 💻  
 - **Python** 🐍  
 - **Java** ☕  
-- **Git & GitHub** 🛠  
-- E muita dedicação e vontade de aprender todos os dias! 💪
+- **Git & GitHub** 🛠
 
 ---
 
 ### 🎓 Certificações
 
-- **Oracle Next Education (ONE)** – Formação em **Desenvolvimento Back-End**  
-- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub** e ++
+- **Oracle Next Education (ONE)** – Desenvolvimento Back-End  
+- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub**  
 - **Certificação em Ciência da Computação** pela **Universidade do Estado do Amazonas**
 
 ---
@@ -49,3 +45,4 @@ Sou apaixonada por tecnologia, design e pelo poder da educação transformadora.
 ---
 
 ✨ *"Transformando aprendizado em prática, um passo de cada vez."*
+
