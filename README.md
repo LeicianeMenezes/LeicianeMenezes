@@ -25,14 +25,6 @@ Sou apaixonada por tecnologia, design e pelo poder da educação transformadora.
 
 ---
 
-### 💼 Projetos em Destaque
-
-🔗 [Portfólio - Desafio Oracle Next Education](https://github.com/LeicianeMenezes/Portifolio_Alura)  
-Um site pessoal criado para apresentar minha trajetória, interesses e formas de contato.  
-Projeto construído com **HTML** e **CSS** — responsivo, acessível e feito com muito carinho 💜
-
----
-
 ### 🎓 Certificações
 
 - **Oracle Next Education (ONE)** – Formação em **Desenvolvimento Back-End**  
