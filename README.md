@@ -8,7 +8,7 @@
 
 ### 💜 Sobre mim
 
-Sou a **Leiciane Menezes**, **formada em Ciência da Computação** pela Universidade do Estado do Amazonas. Atualmente, estou me aprofundando no desenvolvimento **Front-End**, e paralelamente, no **Back-End** através do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.  
+Sou a **Leiciane Menezes**, **formada em Ciência da Computação** pela Universidade do Estado do Amazonas. Atualmente, estou me aprofundando no desenvolvimento **Front-End** e também em **Back-End** através do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.  
 
 Sou apaixonada por **tecnologia**, **design** e pela transformação proporcionada pela educação.
 
@@ -39,10 +39,10 @@ Sou apaixonada por **tecnologia**, **design** e pela transformação proporciona
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-Leiciane%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiciane-menezes)  
-[![Gmail](https://img.shields.io/badge/-menezesleiciane@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menezesleiciane@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Leiciane%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiciane-menezes) ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+
+[![Gmail](https://img.shields.io/badge/-menezesleiciane@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menezesleiciane@gmail.com) ![Gmail Icon](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)
 
 ---
 
 ✨ *"Transformando aprendizado em prática, um passo de cada vez."*
-
