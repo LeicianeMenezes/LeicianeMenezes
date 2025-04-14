@@ -12,7 +12,7 @@ Sou a **Leiciane Menezes**, **formada em Ciência da Computação** pela Univers
 
 Sou apaixonada por **tecnologia**, **design** e pela transformação proporcionada pela educação.
 
-🌍 **Localização**: Amazonas, Brasil  
+🌍 **Localização**: Amazonas, Brasil.
 🎓 **Formação**: Ciência da Computação  
 ⚡ **Objetivo**: Aprimorar minhas habilidades em desenvolvimento Web
 
