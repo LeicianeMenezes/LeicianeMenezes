@@ -32,7 +32,7 @@ Sou apaixonada por **tecnologia**, **design** e pela transformação proporciona
 ### 🎓 Certificações
 
 - **Oracle Next Education (ONE)** – Desenvolvimento Back-End  
-- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub**  
+- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub** e ++
 - **Certificação em Ciência da Computação** pela **Universidade do Estado do Amazonas**
 
 ---
