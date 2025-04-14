@@ -13,14 +13,22 @@ Atualmente, estou me aprofundando no desenvolvimento **Front-End** e participand
 
 Sou apaixonada por tecnologia, design e pelo poder da educação transformadora. 💡
 
+
+🌍 **Localização**: Amazonas, Brasil  
+🎓 **Formação**: Ciência da Computação  
+⚡ **Aspirante a Front-End** com interesse em **Desenvolvimento Web**  
+🎯 **Foco**: HTML, CSS, JavaScript, Python e Java  
+✨ **Objetivo**: Aprimorar minhas habilidades constantemente.!
 ---
 
 ### 🛠 Tecnologias
 
 - **HTML5** 🌐  
 - **CSS3** 🎨  
+- **JavaScript** 💻  
+- **Python** 🐍  
+- **Java** ☕  
 - **Git & GitHub** 🛠  
-- **JavaScript** 💻 
 - E muita dedicação e vontade de aprender todos os dias! 💪
 
 ---
