@@ -35,8 +35,8 @@ Projeto construído com **HTML** e **CSS** — responsivo, acessível e feito co
 
 ### 🎓 Certificações
 
-- **Oracle Next Education (ONE)** – Formação em **Desenvolvimento Front-End**  
-- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub**  
+- **Oracle Next Education (ONE)** – Formação em **Desenvolvimento Back-End**  
+- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub** e ++
 - **Certificação em Ciência da Computação** pela **Universidade do Estado do Amazonas**
 
 ---
