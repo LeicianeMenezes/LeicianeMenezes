@@ -8,7 +8,7 @@
 
 ### 💜 Sobre mim
 
-Sou a **Leiciane Menezes**, **formada em Ciência da Computação** pela Universidade do Estado do Amazonas. Atualmente, estou me aprofundando no desenvolvimento **Front-End** através do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.  
+Sou a **Leiciane Menezes**, **formada em Ciência da Computação** pela Universidade do Estado do Amazonas. Atualmente, estou me aprofundando no desenvolvimento **Front-End** e também em **Back-End** através do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.  
 
 Sou apaixonada por **tecnologia**, **design** e pela transformação proporcionada pela educação.
 
@@ -32,7 +32,7 @@ Sou apaixonada por **tecnologia**, **design** e pela transformação proporciona
 ### 🎓 Certificações
 
 - **Oracle Next Education (ONE)** – Desenvolvimento Back-End  
-- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub** e ++
+- **Alura** – Cursos de **HTML**, **CSS**, **JavaScript**, **Git & GitHub** e ++  
 - **Certificação em Ciência da Computação** pela **Universidade do Estado do Amazonas**
 
 ---
