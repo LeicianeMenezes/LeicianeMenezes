@@ -1,4 +1,4 @@
-# Hi there, sou a Leiciane! 👋👩‍💻✨
+# Hi there!👋👩‍💻✨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Leiciane!;Desenvolvedora+Front-End+em+formação.;Apaixonada+por+tecnologia+e+design." alt="Typing SVG" />
